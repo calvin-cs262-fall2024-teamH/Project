@@ -1,1 +1,0 @@
-This is Sam's totally relevant and very important .txt file for practing git :)
