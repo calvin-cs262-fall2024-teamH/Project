@@ -1,13 +1,12 @@
-Team Hallelujah
-Members: Peter Brink, Sam Visser, Clive Amoh, Kyle Houston, Yigit Turan, Yigit Tufan
+# Tutors Hub
+College students often struggle to understand challenging course material when the lectures from professors or available tutoring resources fall short. Many of them turn to the school’s tutoring system, only to find that it lacks sufficient support for specific courses or the lack of availability of flexible hours. TutorsHub addresses these needs by connecting students seeking assistance with peers who are happy to share their knowledge and passion for their subjects. By providing a platform where students can easily find and hire tutors, we plan to create a supportive environment that enables effective learning.
+Unlike standard tutoring systems, which can be limited and rigid, TutorsHub operates on a peer-to-peer principle. Our platform allows students to become tutors, where they can earn money and put in volunteer hours as well while helping others succeed in courses they’ve shown good success in. This crowdsourced approach increases the availability of tutoring options across a wide range of classes. On top of that, we also intend to add a rating/review system where students can rate tutors and write reviews which both increases the trustability of tutors and keeps everything dynamic. With TutorsHub, students gain access to personalized support from fellow learners who understand their challenges, making the learning experience more relevant and effective.
+Join us at TutorsHub, where we make learning easy, simple and provide the opportunity to earn some money on the side.
 
-Hello, we are Team Hallelujah. We, like all college students, have had difficulties with class work at least once throughout our time at Calvin. 
-Sometimes the lectures of the professors are just not descriptive enough of the course material so you start branching out to try other forms of education like the school’s 
-tutoring system but sometimes the course you are looking for tutoring doesn’t have enough tutors, or sometimes no tutoring even exists for a course. 
-Introducing TutorsHub: a place where students can be given the opportunity to help other students in a course they are both good and passionate about. 
-Tutors will be able to monetize their knowledge and experience whilst students will get help in various classes. We plan on doing this by creating two forms of login: tutor and student. 
-Students who want to be tutors can list the classes they’d like to give help with and their profiles can be sorted and listed by class. Students who need tutoring can go into the app, 
-choose the course they need tutoring with, select a tutor by looking at their profile and meet up with them for teaching. If they are satisfied or dissatisfied about certain aspects, 
-they can write reviews and give ratings about their tutor which boosts engagement and establishes a peer-reviewed environment. This way, students can properly learn their course material 
-and tutors can be paid for their hard work. Instead of trying to figure out dated PowerPoint presentations and watching Youtube videos from obscure creators, sign up for TutorsHub 
-and enlist the help of those who have gone through the difficulties of your class and learn the neat tips and tricks from someone who knows the struggle.
+Team members:
+- Clive Amoh
+- Peter Brink
+- Kyle Houston
+- Yigit Tufan
+- Yigit Turan
+- Sam Visser
