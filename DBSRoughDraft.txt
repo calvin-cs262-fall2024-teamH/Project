@@ -1,0 +1,52 @@
+1. Users
+user_id (Primary Key)
+name
+email (unique, must be a calvin email)
+password_hash
+profile_picture
+is_tutor (boolean indicating if the user can tutor for the selectewd course)
+bio
+          
+2. Courses
+course_id (Primary Key)
+course_name
+course_code
+          
+3. TutorCourses
+tutor_course_id (Primary Key)
+user_id (Foreign Key to Users)
+course_id (Foreign Key to Courses)
+availability
+          
+4. Appointments
+appointment_id (Primary Key)
+tutor_id (Foreign Key to Users, referencing the tutor)
+student_id (Foreign Key to Users, referencing the tutee)
+course_id (Foreign Key to Courses)
+appointment_time
+status (e.g., "pending", "confirmed", "completed")
+          
+5. Messages
+message_id (Primary Key)
+sender_id (Foreign Key to Users)
+receiver_id (Foreign Key to Users)
+appointment_id (Foreign Key to Appointments, optional)
+message_text
+timestamp
+          
+6. Reviews
+review_id (Primary Key)
+appointment_id (Foriegn Key, */in order to make sure that the review isnt random or malicious)
+reviewer_id (Foreign Key to Users)
+reviewee_id (Foreign Key to Users, could be a tutor or tutee)
+rating (1-5)
+comment
+course_id (Foreign Key to Courses)
+timestamp
+
+
+          
+Relationships
+Users and Courses are connected via TutorCourses, which tracks which tutors teach which courses.
+Appointments link students to tutors for specific courses, while Messages enable communication between participants in real time.
+Reviews allow students and tutors to give each other feedback, personally I think that reviews should be specific to an appointment so the feature isnt abused.
