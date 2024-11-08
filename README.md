@@ -6,6 +6,13 @@ Join us at TutorsHub, where we make learning simple, effective, and easy to acce
 
 This is a model of our model: [UML model of TutorsHub](https://raw.githubusercontent.com/calvin-cs262-fall2024-teamH/Project/main/UML.jpeg)
 
+Here are links to our:
+[Organization Page](https://github.com/calvin-cs262-fall2024-teamH)
+
+[Mobile Client](https://github.com/calvin-cs262-fall2024-teamH/Client)
+
+[Data Service](https://github.com/calvin-cs262-fall2024-teamH/Service)
+
 Team members:
 - Clive Amoh
 - Peter Brink
