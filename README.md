@@ -4,7 +4,7 @@ College students often struggle to understand challenging course material when t
 Unlike standard tutoring systems, which can be limited and rigid, TutorsHub operates on a peer-to-peer principle. Our platform allows students to register as tutors, where they can put in volunteer hours  while helping others succeed in courses they’ve shown previous good success in. This crowdsourced approach increases the availability of tutoring options across a wide range of classes. On top of that, we also intend to have a rating/review system where students can rate tutors and write reviews which both increases the trustability of tutors and keeps everything dynamic. With TutorsHub, students gain access to personalized support from fellow learners who understand their challenges, making the learning experience more relevant and effective.
 Join us at TutorsHub, where we make learning simple, effective, and easy to access.
 
-This is a model of our model: [UML model of TutorsHub](https://raw.githubusercontent.com/calvin-cs262-fall2024-teamH/Project/main/UML.jpeg)
+This is a comprehensive UML diagram of our application: [UML model of TutorsHub](https://raw.githubusercontent.com/calvin-cs262-fall2024-teamH/Project/main/UML.jpeg)
 
 Here are links to our:
 [Organization Page](https://github.com/calvin-cs262-fall2024-teamH)
