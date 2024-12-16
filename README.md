@@ -6,6 +6,8 @@ Join us at TutorsHub, where we make learning simple, effective, and easy to acce
 
 This is a comprehensive UML diagram of our application: [UML model of TutorsHub](https://raw.githubusercontent.com/calvin-cs262-fall2024-teamH/Project/main/UML.jpeg)
 
+[User Test Report](https://github.com/calvin-cs262-fall2024-teamH/Project/blob/main/Tutorts%20Hub%20User%20Test%20Report.pdf)
+
 Here are links to our:
 [Organization Page](https://github.com/calvin-cs262-fall2024-teamH)
 
