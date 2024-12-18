@@ -12,6 +12,8 @@ A diagram showing our UML scheme: [UML Diagram](https://github.com/calvin-cs262-
 
 Brief overview of the way our infrastructure works: [Deployment Diagram](https://github.com/calvin-cs262-fall2024-teamH/Project/blob/main/Team%20H%20Deployment%20Diagram.png)
 
+An insight to the inner workings of our database: [Current Database Schema](https://github.com/calvin-cs262-fall2024-teamH/Project/blob/main/Team%20H%20Database%20Schema.png)
+
 A hyperlink to download our [Final Presentation](https://github.com/calvin-cs262-fall2024-teamH/Project/blob/main/Team%20H%20Design%20Presentation.pptx) is also provided.
 
 Here are links to our:
